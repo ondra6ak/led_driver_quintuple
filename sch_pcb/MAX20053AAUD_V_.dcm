@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX20053AAUD_V+
+D LED Lighting Drivers 2A Synchronous Buck LED Driver with Integrated MOSFETs
+K LED driver
+F https://datasheets.maximintegrated.com/en/ds/MAX20050-MAX20053.pdf
+$ENDCMP
+#
+#End Doc Library
